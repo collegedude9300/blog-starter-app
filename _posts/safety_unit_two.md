@@ -90,5 +90,9 @@ Afterwards:
 
 
  - If any light appears on your car, follow these steps:
-
- 
+  1. Recognize a light, and see what action you should take:
+    - If it's an engine light (even yellow), drive to your dealership immediately, or call them to set an appointment to get it checked out
+     - If it's a maintenance light (i.e. oil change), or any other yellow light,  it's usually not URGENT, but still make an appointment as soon as possible to get maintenance done.
+     - If it's a red light (regardless of the symbol), drive to your dealership immediately, or in more urgent situations, get a tow truck to get your car towed to the dealership.
+     - If it's a tire light (yellow), go to a tire shop and have it checked out. Either the tire is low on air, or something was caught in, or underneath the tire.
+     
