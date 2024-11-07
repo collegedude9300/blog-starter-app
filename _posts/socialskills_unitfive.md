@@ -10,7 +10,18 @@ ogImage:
   url: "/assets/blog/socialskills_unitfive/cover.jpg"
 ---
 ## Body Language
+Signs and Important Expressions
+- Interested vs Not Interested:
+ 
+ - Interested:
+ 1. People's bodies are turned towards you
+ 2. Smiles
+ 3. 
+ 4. 
 
+ Not Interested: 
+ 1. People's bodies are turned away from you
+ 2. Doesn't show a smile
 
 ## How to Start a Conversation
 
