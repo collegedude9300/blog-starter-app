@@ -5,7 +5,7 @@ coverImage: "/assets/blog/socialskills_unitfive/cover.jpg"
 date: "2024-09-28T05:35:07.322Z"
 author:
   name: Spectrum Station
-  picture: "/assets/blog/authors/school.jpeg"
+  picture: "/assets/blog/authors/spectrum.png"
 ogImage:
   url: "/assets/blog/socialskills_unitfive/cover.jpg"
 ---
