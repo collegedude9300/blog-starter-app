@@ -1,8 +1,6 @@
 import Avatar from "@/app/_components/avatar";
 import CoverImage from "@/app/_components/cover-image";
 import { type Author } from "@/interfaces/author";
-import Link from "next/link";
-import DateFormatter from "./date-formatter";
 
 type Props = {
   title: string;
@@ -24,7 +22,7 @@ export function HeroPost({
   return (
     <section>
       <div className="mb-8 md:mb-12">
-        <CoverImage title={title} src={coverImage} slug={slug} />
+        <CoverImage title={title} src={coverImage} />
       </div>
         <div>
           <p className="text-lg leading-relaxed mb-4">{excerpt}</p>
