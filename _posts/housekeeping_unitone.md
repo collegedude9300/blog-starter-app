@@ -1,6 +1,6 @@
 ---
-title: " Unit One: Housekeeping and Cleaning"
-excerpt: "Housekeeping and Cleaning: LIFE 101."
+title: "LIFE 101 : Unit One: Housekeeping and Cleaning"
+excerpt: "LIFE 101 : Housekeeping and Cleaning: LIFE 101."
 coverImage: "/assets/blog/housekeeping_unitone/cover.jpg"
 date: "2024-09-28T05:35:07.322Z"
 author:

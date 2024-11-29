@@ -25,7 +25,7 @@ export default function Index() {
           excerpt={heroPost.excerpt}
         />
         {morePosts.length > 0 && <MoreStories posts={morePosts} />}
-
+        <Link href="/classsample">Dashboard</Link>
       </Container>
     </main>
   );

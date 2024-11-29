@@ -1,6 +1,6 @@
 ---
-title: "Food and Dieting Unit Three"
-excerpt: "Food and Dieting Unit Three"
+title: "LIFE 101 : Food and Dieting Unit Three"
+excerpt: "LIFE 101 : Food and Dieting Unit Three"
 coverImage: "/assets/blog/fooddieting_unit_three/cover.jpg"
 date: "2024-09-28T05:35:07.322Z"
 author:

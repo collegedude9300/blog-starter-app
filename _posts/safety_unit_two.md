@@ -1,6 +1,6 @@
 ---
-title: "Unit 2: Safety"
-excerpt: "Unit 2: Safety"
+title: "LIFE 101 : Unit 2: Safety"
+excerpt: "LIFE 101 : Unit 2: Safety"
 coverImage: "/assets/blog/safety_unit_two/cover.png"
 date: "2024-09-28T05:35:07.322Z"
 author:
