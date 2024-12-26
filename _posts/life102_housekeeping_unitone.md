@@ -2,7 +2,7 @@
 title: "LIFE 102 : Unit One: Housekeeping and Cleaning"
 excerpt: "LIFE 102 : Housekeeping and Cleaning: LIFE 101."
 coverImage: "/assets/blog/housekeeping_unitone/cover.jpg"
-date: "2024-09-28T05:35:07.322Z"
+date: "2024-12-25T05:35:07.322Z"
 author:
   name: Spectrum Station
   picture: "/assets/blog/authors/spectrum.png"
