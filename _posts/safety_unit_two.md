@@ -72,7 +72,6 @@ Afterwards:
 
 ## Social Skills Safety
 
-## Shopping Safety
 
 ## Transportation Safety
  - If you get into a car accident, follow these steps:

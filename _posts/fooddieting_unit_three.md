@@ -9,7 +9,6 @@ author:
 ogImage:
   url: "/assets/blog/fooddieting_unit_three/cover.jpg"
 ---
-
 ## How to Measure your Diet: General Tips
 General Rule of Thumb: Always balance between proteins and carbs: for every carbs, add some protein to it, 
 to prevent your bloodsugar from spiking.  Also, be aware of any foods that say, "**fat free**", or, "**low fat**". Often, they have many added **chemicals**, or added **GMOs**.
