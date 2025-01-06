@@ -50,7 +50,7 @@ This includes any leaks, any broken glass or any appliances, any mold, or peelin
  4. insurance companies
  5. your parents if you need advice
 
-## Food Safety
+## Food Safety:
  
 ## When Cooking:
 Prep Rules:

@@ -1,15 +1,13 @@
 ---
-title: "LIFE 102 : Food and Dieting Unit Three"
-excerpt: "LIFE 102 : Food and Dieting Unit Three"
+title: "LIFE 103 : Cooking Class"
+excerpt: "LIFE 103 : Cooking Class"
 coverImage: "/assets/blog/fooddieting_unit_three/cover.jpg"
-date: "2024-12-25T05:35:07.322Z"
+date: "2025-01-05T19:03:07.322Z"
 author:
   name: Spectrum Station
   picture: "/assets/blog/authors/spectrum.png"
 ogImage:
   url: "/assets/blog/fooddieting_unit_three/cover.jpg"
 ---
-## Continuation of Food and Dieting from LIFE 101
-
-## Cooking Techniques:
+## sdfgksjdofgksdjfog
 
