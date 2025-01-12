@@ -23,10 +23,6 @@ export default function Index() {
           excerpt={heroPost.excerpt}
         />
         {morePosts.length > 0 && <MoreStories posts={morePosts} />}
-
-        <Link href={`/posts/${heroPost.slug}`} className="btn btn-primary">//+
-          Read More//+
-        </Link>//+
       </Container>
     </main>
   );
