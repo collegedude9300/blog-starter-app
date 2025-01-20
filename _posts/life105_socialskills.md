@@ -9,7 +9,22 @@ author:
 ogImage:
   url: "/assets/blog/fooddieting_unit_three/cover.jpg"
 ---
-## Body Language
+## Welcome to LIFE 105: Social Skills
+## The purpose of Being Social:
+Humans are social in nature. This is why it's important for people to have friends growing up. Usually, neurotypical people naturally learn to socialize at a young age, but individuals with Autism, Asperger's and related special needs need a little extra guidance on how to get started with knowing the hidden curriculum, as well as learning to make friends.
+## Lesson One Part 1: Basic Rules on Making Friends: How To Find Friends
+### 1. Mutual Interest in Friendship:
+
+### 2.  Common Ground/ Mutual Interests
+
+### 3.  Location:
+
+##  Lesson 1 Part 2: Trading Information
+Now that you have made a new friend, it is time to trade information. Trading information is important because that way, there is a way to get ahold of the other person. Examples of trading information: cellphone numbers, email, social media, etc. 
+### How to Trade Information:
+
+
+## Lesson Two: The Basics of Body Language
 Signs and Important Expressions
 - Interested vs Not Interested:
  
@@ -20,25 +35,29 @@ Signs and Important Expressions
  1. People's bodies are turned away from you
  2. Doesn't show a smile
 
-## How to Start a Conversation
-- With One Person:
-1. Walk up to the person 
-2. See if him or her turns your direction and smiles
-3. If he/she shows you good body Language, then say hello, then the other person will say it back 
-4. Ask how they're doing, and listen to their response, and respond back to them
-5. Based on a topic you chose, use the Statement, Question, Statement Question rule. See below.
-
-## Statement Question Statement Question Rule:
-1. Person A: Make a  Statement
-2. Person A: Ask a Question
-3. Person B : Make a Statement (answering the question)
-4. Person B: Ask a Question
+## Lesson Three: Two Way Conversation
 
 
-## How to Keep a Conversation Going
+## Lesson Four: Appropriate Use of Humor
 
 
-## How to End a Conversation
+## Lesson 5: How to Enter a Conversation:
 
 
-## Ways to be a Friend and Ways to not be a Friend
+## Lesson 6: How to Exit a Conversation
+
+## Lesson 7: Social Media Hidden Curriculum: Dos and Don'ts
+
+## Lesson 8: How to Keep a Friend: 
+
+## Lesson 9: Get Togethers/Hangouts
+
+
+## Lesson 10: Good Sportsmanship (When the Hangout Involves Videogames or Sports):
+
+## Lesson 11:  Bullying and Teasing: What to Do and Not Do:
+
+## Lesson 12: Conflict Resolution: How to Handle Disagreements
+
+## Lesson 13: ALL DONE!
+Congratulations! You have read through all of the lessons. Hopefully, you have taken your time and practiced through every lesson, and you now know how to socialize with your friends!
