@@ -19,48 +19,50 @@ Friendship is a two-way street. It only works when both people are interested. A
 Friendships work when people are interested in being friends, and if the other person seems nice. However, to make a lasting friendship, there needs to be common ground. What that means is someone that has things in common with you. 
 ### 3.  Location and Timing:
 Another part of making friends is locations and timing. Here are some examples of good locations:
- - Coffee Shops
- - College (particularly in mutual classes, or events)
- - Work
- - Concerts (when it's not too noisy)
+ - ### Coffee Shops
+ -  ### College 
+    (particularly in mutual classes, or events)
+ - ### Work
+ - ### Concerts (when it's not too noisy)
  Here are some examples of bad locations:
- - Library (people are trying to either read, or study)
- - Bars (too much peer pressure into drinking)
- - Streets (people may be in a hurry)
- - Church (people are trying to listen to the service)
+ -  Library (people are trying to either read, or study)
+ -  Bars (too much peer pressure into drinking)
+ -  Streets (people may be in a hurry)
+ -  Church 
+ (people are trying to listen to the service)
  While we have our good locations, timing is everything too. Here are some examples of good timing and bad timing:
- Good Timing: 
- - People talking in a coffee shop (wait for a pause and see if they're interested first)
- - College during events, or at the end of class, or start of class
- - Campus cafeteria (see rules for #1)
- - Work (during your 15 minute break or lunch)
-Bad Timing: (for good locations)
-- Coffee shops when in line (lines move fast sometimes)
-- College during class (Professor is trying to teach)
-- Work when you're on the clock (you have to get your work done first before break/lunch)
+ ### Good Timing: 
+ -  People talking in a coffee shop (wait for a pause and see if they're interested first)
+ -  College during events, or at the end of class, or start of class
+ -  Campus cafeteria (see rules for #1)
+ -  Work (during your 15 minute break or lunch)
+### Bad Timing: (for good locations)
+-  Coffee shops when in line (lines move fast sometimes)
+-  College during class (Professor is trying to teach)
+-  Work when you're on the clock (you have to get your work done first before break/lunch)
 
 ##  Lesson 1 Part 2: Trading Information
 Now that you have made a new friend, it is time to trade information. Trading information is important because that way, there is a way to get ahold of the other person. Examples of trading information: cellphone numbers, email, social media, etc. 
 ### How to Trade Information:
-1. Go up to the person when he or she is not busy
-2. Look at the person, and then when the person seems interested in talking, introduce yourself if it's the first time meeting that person
-3. Ask the other person about him or herself
-4. When the other person finishes, they will ask about you as well, but if the person doesn't, then go ahead and say something about yourself
-5. As soon as you find out if you and the other person have anything in common, think about things you can talk about, or activities to do together.
-6. Once you know each other a little better, exchange information (cellphone number, social media, etc)
-TIPS:
+1. 1.  Go up to the person when he or she is not busy
+2. 2.  Look at the person, and then when the person seems interested in talking, introduce yourself if it's the first time meeting that person
+3. 3. Ask the other person about him or herself
+4. 4. When the other person finishes, they will ask about you as well, but if the person doesn't, then go ahead and say something about yourself
+5. 5. As soon as you find out if you and the other person have anything in common, think about things you can talk about, or activities to do together.
+6. 6. Once you know each other a little better, exchange information (cellphone number, social media, etc)
+### TIPS:
 - TIP: Listen to what the other person's disinterests are too, so that way you can avoid scheduling those activities
 - TIP: Be sure to share the conversation (i.e. let the other person talk too). Be careful not to talk too long, so that way the person has a chance to talk too
 
 
 ## Lesson Two: The Basics of Body Language
-Signs and Important Expressions
+### Signs and Important Expressions
 - Interested vs Not Interested:
  
  - Interested:
  1. People's bodies are turned towards you
  2. Smile
- Not Interested: 
+ - Not Interested: 
  1. People's bodies are turned away from you
  2. Doesn't show a smile
 
@@ -68,11 +70,11 @@ Signs and Important Expressions
 Here are the general steps and guidelines for having a two-way conversation:
 1. Trade information- in this context, this means finding out if you have anything in common with the other person.
 2. Use the statement, question statment rule
- A. Say a statement about what you want to talk about (i.e. hobbies)
- B. Ask a question about their special interests
- C. Wait for the peer to answer and then make a comment about what they said
- 3. Share the conversation (don't talk too long, let the other person talk too)
- TIPS:
+ 1. A. Say a statement about what you want to talk about (i.e. hobbies)
+ 2. B. Ask a question about their special interests
+ 3. C. Wait for the peer to answer and then make a comment about what they said
+ 3. 3.  Share the conversation (don't talk too long, let the other person talk too)
+ - TIPS:
  1. When you first meet someone, don't ask personal questions at first.
  2. Don't be an interviewer (asking question after question). Refer to rule 2.
  3. Listen to your friend
