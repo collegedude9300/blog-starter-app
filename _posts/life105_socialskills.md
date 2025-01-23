@@ -19,18 +19,18 @@ Friendship is a two-way street. It only works when both people are interested. A
 Friendships work when people are interested in being friends, and if the other person seems nice. However, to make a lasting friendship, there needs to be common ground. What that means is someone that has things in common with you. 
 ### 3.  Location and Timing:
 Another part of making friends is locations and timing. Here are some examples of good locations:
- - ### Coffee Shops
- -  ### College 
+ - - Coffee Shops
+ -  - College 
     (particularly in mutual classes, or events)
- - ### Work
- - ### Concerts (when it's not too noisy)
+ - - Work
+ - - Concerts (when it's not too noisy)
  Here are some examples of bad locations:
- -  Library (people are trying to either read, or study)
- -  Bars (too much peer pressure into drinking)
- -  Streets (people may be in a hurry)
- -  Church 
- (people are trying to listen to the service)
- While we have our good locations, timing is everything too. Here are some examples of good timing and bad timing:
+ - -  Library (people are trying to either read, or study)
+ - -  Bars (too much peer pressure into drinking)
+ - -  Streets (people may be in a hurry)
+ - -  Church  (people are trying to listen to the service)
+ - - Funerals (people are too emotional during this time)
+- -  While we have our good locations, timing is everything too. Here are some examples of good timing and bad timing:
  ### Good Timing: 
  -  People talking in a coffee shop (wait for a pause and see if they're interested first)
  -  College during events, or at the end of class, or start of class
@@ -57,9 +57,8 @@ Now that you have made a new friend, it is time to trade information. Trading in
 
 ## Lesson Two: The Basics of Body Language
 ### Signs and Important Expressions
-- Interested vs Not Interested:
- 
- - Interested:
+- - **Interested vs Not Interested:**
+ - **Interested:**
  1. People's bodies are turned towards you
  2. Smile
  - Not Interested: 
@@ -74,17 +73,35 @@ Here are the general steps and guidelines for having a two-way conversation:
  2. B. Ask a question about their special interests
  3. C. Wait for the peer to answer and then make a comment about what they said
  3. 3.  Share the conversation (don't talk too long, let the other person talk too)
- - TIPS:
- 1. When you first meet someone, don't ask personal questions at first.
- 2. Don't be an interviewer (asking question after question). Refer to rule 2.
- 3. Listen to your friend
- 4. Don't critisize or tease at first. People you don't know well don't know your humor yet.
- 5. Be serious when you first get to know someone.
- 6. Use good volume control. Not too loud or soft.
- 7. Remember to use personal space. A rule of thumb is one arm length.
- 8. Always make eye contact when someone is talking to you. 
+ - ### TIPS:
+ 1. TIP: When you first meet someone, don't ask personal questions at first.
+ 2. TIP: Don't be an interviewer (asking question after question). Refer to rule 2.
+ 3. TIP: Listen to your friend
+ 4. TIP: Don't critisize or tease at first. People you don't know well don't know your humor yet.
+ 5. TIP: Be serious when you first get to know someone.
+ 6. TIP: Use good volume control. Not too loud or soft.
+ 7. TIP: Remember to use personal space. A rule of thumb is one arm length.
+ 8. TIP: Always make eye contact when someone is talking to you. 
 ## Lesson Four: Appropriate Use of Humor
+Eventually after you and your friend get familiar enough and start to get to know each other a little better, you guys will start to joke around a little.
+Here are some guidelines to be sure that you are using appropriate humor, and doing so correctly.
+- Do not repeat jokes after you have told them
+- Humor should be age appropriate: it should not be too childish, but at the same time, it cannot be innappropriate either, especially when first getting to know someone
+- When first getting to know someone, avoid insult jokes
+- Avoid telling racist, or religious, or politics related jokes. It can be controversial.
+- Be sure to tell the joke at the right time
 
+### Good Times:
+- Parties
+- get-Togethers
+- events (college)
+
+### Bad Times:
+-  Coffee shops when in line (lines move fast sometimes)
+-  College during class (Professor is trying to teach)
+-  Work when you're on the clock (you have to get your work done first before break/lunch)
+- Church
+- funerals
 
 ## Lesson 5: How to Enter a Conversation:
 
